@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.firstclickme{
+    background-color: black;
+    color: white;
+}
+.secondclickme{
+    background-color: yellow;
+}
+.firstclickme,.secondclickme{
+    font-size: 28px;
+    font-family: Helvetica ,"Times New Roman", sans-serif;
+}
