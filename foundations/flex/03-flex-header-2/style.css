@@ -45,4 +45,31 @@ a {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+.links{
+  display: flex;
+  flex: 1 0 0;
+  gap: 16px;
+  margin: 16px;
+  
+  
+}
+.header{
+    display: flex;
+    flex: 1 0 0; 
+    padding: 8px;
+    align-items: center;
+}
+.profilepicsection{
+    display: flex;
+    flex: 2 0 0;
+    gap: 16px;
+    align-items: center;
+    justify-content: flex-end;
+
+   
 }
